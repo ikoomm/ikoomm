@@ -4,7 +4,8 @@ I work on small software fixes, technical documentation, and clear visual delive
 
 ## Selected work
 
-- [Merged Python CLI fix](https://github.com/BasedHardware/omi/pull/12990): preserve unrelated configuration keys when saving settings. Tested on Windows with Python 3.12.
+- [CSV validation and workflow gate](https://github.com/ikoomm/services/tree/main/work-samples/csv-validation): runnable Python sample with synthetic data, explicit rejection reasons and 12 focused tests.
+- [Merged Python CLI fix](https://github.com/ikoomm/services/blob/main/work-samples/omi-cli-config.md): preserve unrelated configuration keys when saving settings, with a real-command regression test and the upstream merged PR.
 - [English subtitle cleanup](https://gist.github.com/ikoomm/7db1dbbea010a0378e765e8af2b4eb37): original before/after SRT and VTT sample with timing checks.
 - [Software tutorial script](https://gist.github.com/ikoomm/401177508ec0df16a382ca1ea6511bab): an original fictional demo, including a shot list and timing plan.
 - [Restaurant dashboard UI study](https://github.com/ikoomm/restaurant-ui-study): original portfolio work, not a client commission.
